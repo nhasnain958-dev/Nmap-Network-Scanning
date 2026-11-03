@@ -1,0 +1,65 @@
+Scan Results
+
+Port
+
+State
+
+Service
+
+Version / Details
+
+135
+
+Open
+
+MSRPC
+
+Microsoft Windows RPC
+
+445
+
+Open
+
+Microsoft-DS
+
+Unidentified
+
+5357
+
+Open
+
+HTTP
+
+Microsoft HTTPAPI 2.0
+
+5432
+
+Open
+
+PostgreSQL
+
+Unidentified
+
+8000
+
+Open
+
+HTTP-Alt
+
+Splunkd
+
+8089
+
+Open
+
+Unknown
+
+Unidentified
+
+8194
+
+Open
+
+SSL/HTTP
+
+Golang net/http server
